@@ -1,6 +1,6 @@
-# Manavgat Temizlik Hizmetleri
+# Kıbrıs Temizlik Hizmetleri
 
-Manavgat'ta profesyonel ev temizliği, ofis temizliği, derin temizlik ve cam temizliği hizmetleri sunan web sitesi projesi.
+Kıbrıs'ta profesyonel ev temizliği, ofis temizliği, derin temizlik ve cam temizliği hizmetleri sunan web sitesi projesi.
 
 ## Özellikler
 - 📱 Mobil Uyumlu (Responsive) Tasarım
