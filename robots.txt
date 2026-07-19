@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manavgatevtemizlik.com.tr/sitemap.xml
